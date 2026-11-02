@@ -1,56 +1,56 @@
 # SAMPLE — Influencer Outreach Message Pack
 
-*Sample work. Every message below is a framework I personalise per creator — the [bracketed] parts are written fresh for each person. Sending the same copy-paste blast to everyone is exactly what I don't do.*
+*These messages are written out in full, exactly the way I send them. The brand (Lumière Skin) and the creators are examples — on a real campaign, every message is written fresh for the creator receiving it. The personal lines are never copy-pasted.*
 
 ## 1. Gifted collaboration — email
 
-Subject: Loved your [specific post] — a gift from [Brand]?
+Subject: Your morning routine video — a gift from Lumière Skin?
 
-Hi [Name],
+Hi Amara,
 
-I saw your [post/reel about X] — [one genuine, specific line about it: what they showed, said, or how their audience reacted].
+I watched your morning routine video twice — the part where you apply your vitamin C serum in natural light and show your skin before you've even washed it. Your comments were full of people saying that's exactly why they trust your reviews, and honestly, same.
 
-I work with [Brand], and we're launching [product]. Based on your content, I think your audience would genuinely like it, so I'd love to send you one as a gift — no posting obligation and no script. If you love it and choose to share, that's entirely up to you.
+I handle outreach for Lumière Skin. We're launching our Brighten Up Vitamin C Serum, and I'd love to send you one as a gift. No posting obligation, no script, no talking points. If you try it and genuinely like it, sharing is entirely your call.
 
-Want me to send one to you?
+Want me to send one over?
 
 Best,
 Alisha
-Influencer Outreach — [Brand]
+Influencer Outreach — Lumière Skin
 
 ## 2. Paid collaboration — email
 
-Subject: Paid collaboration with [Brand]?
+Subject: Paid collab — Lumière Skin vitamin C serum?
 
-Hi [Name],
+Hi Jess,
 
-Your [recent series/post] is a strong fit for [Brand]'s audience, so I'm reaching out about a paid post.
+Your before/after series is one of the few I actually believe — you keep the same lighting, you wait weeks between the photos, and you say when something *doesn't* work for you. That honesty is rare, and it's why I'm writing.
 
-The brief in short: [1 post/reel about product], your own style and words, [timeline]. We pay [rate range / ask for their rate card], and usage rights are [terms] — everything agreed in writing before you create anything.
+I'm reaching out from Lumière Skin about a paid post for our new vitamin C serum. In short: one TikTok review in your usual format, your own words, posting window flexible over the next couple of weeks. We have $150–$250 set aside for a video of your size — or send me your rate card if you work differently. That covers organic posting on your page; if we ever want to run it as an ad, we'd agree that separately, in writing, before anything is created.
 
-If you're interested, I'll send the full brief and product details. And if the timing is wrong, a no is completely fine.
+If you're open to it, I'll send the full brief and the ingredient list (I know you'll want to check it first). And if the timing is wrong, a no is completely fine.
 
 Best,
 Alisha
 
 ## 3. Instagram / TikTok DM openers
 
-Opener A:
-Hi [Name]! Your [specific video] helped me [genuine reaction]. I handle outreach for [Brand] — we're gifting [product] to a small group of creators this month and you were top of my list. Can I send you the details here, or is email better?
+Opener A (gifted, to a skincare creator):
+Hi Sana! Your budget dupes series genuinely saved me money last month. I handle outreach for Lumière Skin — we're gifting our new vitamin C serum to a small group of creators and you were top of my list. Can I send the details here, or is email better for you?
 
-Opener B:
-Hi [Name], quick one — [Brand] is opening a few paid spots for [month] and your [niche] content fits what we're looking for. Open to me sending the brief?
+Opener B (paid, to a routine creator):
+Hi! Quick one — Lumière Skin is opening a few paid spots for our serum launch, and your get-ready-with-me videos are exactly the style we're looking for. Open to me sending the brief and rates?
 
-## 4. Follow-up (3–4 days later, once only)
+## 4. Follow-up (a few days later, once only)
 
-Hi [Name], floating this back up in case it got buried — still happy to send you [product / the brief]. If it's not for you, no hard feelings at all.
+Hi Amara, just floating this back up in case it got buried under brand emails — the serum offer still stands, happy to send one whenever. And if it's not for you, no hard feelings at all. Last message from me on this!
 
 ## 5. Affiliate invitation — DM or email
 
-Hi [Name], I work with [Brand]. Alongside gifted product, we run an affiliate program: your own link + code, [X]% commission for you, [X]% off for your followers, paid out monthly. No minimum posting — share when it fits your content. Want me to set up your code?
+Hi Ria, I work with Lumière Skin. Alongside gifted products, we run an affiliate program for creators who like the serum: your own link and code (yours would be RIA15), 15% commission on every sale through it, and 15% off for your followers. Payouts are monthly, and there's no posting minimum — share it when it fits your content, skip it when it doesn't. Want me to set your code up?
 
-## My outreach rules
-- Personalise the first two lines for every single creator
+## How I work, so clients know what to expect
+- The first lines of every message are written for that one creator — what they posted, what their audience said
 - One follow-up, never a chase sequence
-- Clear terms in writing before any paid work starts
-- Every reply logged in the campaign tracker the same day
+- Rates, usage and terms agreed in writing before any paid work starts
+- Every reply logged in the campaign tracker as it comes in

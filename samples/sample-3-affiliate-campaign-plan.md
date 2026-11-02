@@ -1,19 +1,19 @@
 # SAMPLE — Affiliate Influencer Campaign Plan
 
-*Sample plan showing how I structure an affiliate-driven influencer campaign end to end. Numbers in brackets are set with the client at kickoff.*
+*Sample plan showing how I structure an affiliate-driven influencer campaign end to end. The figures shown are examples — real numbers are set with the client at kickoff.*
 
 ## Goal
 Recruit creators who promote with a personal affiliate link/code, so every sale is trackable back to the creator who earned it.
 
 ## Phase 1 — Research & shortlist
 - Define the audience and creator profile from the product (niche, size, platform, country)
-- Build a checked shortlist of [30–50] creators using my research method:
+- Build a checked shortlist of 40 creators using my research method:
   audience fit first, engagement quality, brand safety, public contact details
 - Client approves the shortlist before any message goes out
 
 ## Phase 2 — Outreach & onboarding
 - Personalised outreach (email + DM) with the affiliate offer:
-  gifted product, [X]% commission for the creator, [X]% follower discount
+  gifted product, 15% commission for the creator, 15% follower discount
 - Replies handled daily; interested creators get the one-page brief
 - Each accepted creator gets a unique link + code, logged in the tracker
 
