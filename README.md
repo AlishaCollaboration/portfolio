@@ -4,6 +4,10 @@
 
 I specialise in connecting brands with influencers whose values and audiences genuinely match — not just creators with big follower counts. I work across YouTube, Instagram, TikTok and Twitter, building influencer outreach and affiliate campaigns for brands in niches such as Amazon and eCommerce products, health, tech startups, and fashion.
 
+## Current Work
+
+- **Influencer outreach — [Perpetual Youth Skincare](https://perpetualyouthskincare.com/)** — creator research and outreach for a mature-skincare brand (growth factor serums, skin peels, copper peptide)
+
 ## Services
 
 - **Influencer Research & List Building** — checked shortlists matched to your niche, audience and budget
