@@ -8,6 +8,10 @@ I specialise in connecting brands with influencers whose values and audiences ge
 
 - **Influencer outreach — [Perpetual Youth Skincare](https://perpetualyouthskincare.com/)** — creator research and outreach for a mature-skincare brand (growth factor serums, skin peels, copper peptide)
 
+## Intro Video
+
+▶ [Watch my intro video](alisha-intro-video.mp4) — 47 seconds: what influencer outreach and affiliate marketing are, my current brand work, and how I can help your brand.
+
 ## Services
 
 - **Influencer Research & List Building** — checked shortlists matched to your niche, audience and budget
